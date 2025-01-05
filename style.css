@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* it is kind of like a reset */
+
+body {
+  background-color: #ccc;
+}
+.container {
+  margin: 0 auto;
+  max-width: 1000px;
+}
+.apply_box {
+  max-width: 800px;
+  background-color: white;
+  padding: 20px;
+  margin: 0 auto;
+  margin-top: 50px;
+  box-shadow: 4px 3px 5px rgba(1, 1, 1, 0.1);
+  border-radius: 10px;
+}
+h1 {
+  font-size: 50px;
+}
+.small {
+  font-size: 35px;
+}
